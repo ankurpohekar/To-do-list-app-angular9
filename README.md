@@ -3,7 +3,7 @@ An Angular 9 Sample Project For To Do List Application Using Firebase Project.
 
 ## Dependencies
 - Angular9
-- ^7.13.1
+- Firebase ^7.13.1
 
 ## Get the Code
 
