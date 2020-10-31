@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "to-do-list-app-ef7ab": {
+      "hosting": {
+        "to-do-list-angular": [
+          "to-do-list-app-ef7ab"
+        ]
+      }
+    }
+  }
+}
